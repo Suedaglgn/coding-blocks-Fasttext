@@ -1,0 +1,15 @@
+{   "fasttext": {
+    "suffix" : "001",
+    "prefix" : "supervised",
+    "train_file" : "/home/USER/PycharmProjects/CLClassifier/Data/Processed/train/BERT_train_001.txt",
+    "valid_file" : "/home/USER/PycharmProjects/CLClassifier/Data/Processed/test/BERT_valid_001.txt",
+    "autotune_mode" : false,
+    "lr" : 0.01,
+    "epoch" : 100,
+    "wordNgrams": 2,
+    "autotuneduration": 100,
+    "opt_save" : true,
+    "tokenizer_model": "BERT",
+    "model_dir": null
+  }
+}

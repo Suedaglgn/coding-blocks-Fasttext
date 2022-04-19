@@ -1,2 +1,1 @@
-# coding-blocks-Fasttext
-Useful code blocks for Fasttext
+Useful fasttext methods and fasttext model
